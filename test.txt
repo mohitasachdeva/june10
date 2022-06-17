@@ -1,8 +1,0 @@
-vi editor commands
-
-esc i to insert
-:wq! for save and exit
-:q!  for quit without save
-
-
-pankaj mohita gagan nyra nyra

@@ -1,9 +1,11 @@
 #! /bin/bash -x
 
-read -p "enter dice1;" x
+dice1=$((RANDOM%6))
+read -p"RANDOM NUMBER"
 
-read -p "enter dice2;" y
+dice2=$((RANDOM%6))
 
-sum =$(( $x + $y ))
+sum=$((dice1+dice2))
 
 echo = $sum
+ 

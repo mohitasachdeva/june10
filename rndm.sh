@@ -1,4 +1,4 @@
-#! bin/bash
+#! /usr/bin/bash 
 num1=$(( ( $RANDOM%6 ) + 1 ));
 num2=$(( ( $RANDOM%6 ) + 1 ));
 num3=$(( ( $RANDOM%6 ) + 1 ));
